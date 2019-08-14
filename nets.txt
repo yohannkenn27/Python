@@ -3,7 +3,7 @@ login as: usbonj j00
 Pre-authentication banner message from server:
 | #############################################################################
 > ##
-| #                                                                            
+| #                                                                            s
 >  #
 | #        WARNING: Access to this system is for authorized users only         
 >  #
@@ -13221,3 +13221,5 @@ set ns param -tcpCIP ENABLED
 CLI session timed out at Wed Jul 31 01:34:49 2019
 ^D
 Bye!
+
+sss
